@@ -11,7 +11,7 @@ This project is an interactive aquarium simulation built in Processing. It featu
 - Day/night mode toggle
 ## How to Run
 1. Open the .pde file in Processing IDE.
-2. Click the Run button ( ).▶
+2. Click the Run button.
 3. Click to drop food and watch the fish interact.
 ## Controls
 - Mouse click: Drop food particles
